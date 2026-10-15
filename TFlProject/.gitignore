@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+TestResults/
+playwright-report/
+*.trx
+*.user
+.env
+.env.*
+notepad
